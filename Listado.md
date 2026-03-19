@@ -12,3 +12,7 @@
 
 *\*Gaby Mateo\**
 
+*luca mazzarella*
+
+*juan pablo bruno*
+
