@@ -10,5 +10,5 @@
 
 *Angela Riple*
 
-*\*Gaby Mateo\**
+*Gaby Mateo*
 
