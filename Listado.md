@@ -4,10 +4,11 @@
 
 *Mariana Barsellini*
 
-*Joaquin Ramos Cristeche* 
+*Joaquin Ramos Cristeche*
 
 *Melany Diaz Marquez*
 
 *Angela Riple*
 
+*\*Gaby Mateo\**
 
