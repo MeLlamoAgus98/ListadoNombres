@@ -10,5 +10,8 @@
 
 *Angela Riple*
 
-*Francisco Despos*
-*Gaby Mateo*
+*Francisco Despos
+Gaby Mateo*
+
+*\*Gino Antonelli\**
+
