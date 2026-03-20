@@ -15,7 +15,7 @@
 *Francisco Despos
 Gaby Mateo*
 
-*\*Gino Antonelli\**
+Gino Antonelli
 
 =======
 <<<<<<< HEAD
