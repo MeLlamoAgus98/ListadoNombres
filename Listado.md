@@ -10,5 +10,6 @@
 
 *Angela Riple*
 
-*Francisco Despos*
+*Fran Despos*
+
 *Gaby Mateo*
