@@ -1,23 +1,20 @@
 **Listado nombres**
 
-*Agustin Riple*
+Agustin Riple*
 
-*Mariana Barsellini*
+Mariana Barsellini
+Joaquin Ramos Crist
 
-*Joaquin Ramos Cristeche*
+Melany Diaz Mar
 
-*Melany Diaz Marquez*
+Angela Riple*
 
-*Angela Riple*
+Gaby Mateo
 
-<<<<<<< HEAD
-*\*Gaby Mateo\**
+luca mazzarella
 
-*luca mazzarella*
+juan pablo bruno*
 
-*juan pablo bruno*
+Francisco Despos
+Gaby Mateo WHAT
 
-=======
-*Francisco Despos*
-*Gaby Mateo*
->>>>>>> 7f484957492348b8843b3c5bdde32f2566ad9ccb
