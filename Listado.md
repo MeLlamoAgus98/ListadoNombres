@@ -3,27 +3,25 @@
 Agustin Riple*
 
 Mariana Barsellini
+
 Joaquin Ramos Crist
 
 Melany Diaz Mar
 
-Angela Riple*
+Angela Riple
 
-Gaby Mateo
-
-luca mazzarella
-Francisco Despos
 Gaby Mateo*
 
-Gino Antonelli
+Luca Mazzarella*
 
 Francisco Despos*
 
-Gaby Mateo
+Gino Antonelli*
 
-juan pablo bruno*
+Juan Pablo Bruno*
 
-Francisco Despos
-Gaby Mateo WHAT
+David Menvielle Aguilar*
 
-Gaby Mateo
+Milagritos Mantilla*
+
+Romero  Beatriz*
